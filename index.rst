@@ -65,3 +65,7 @@ Major drawbacks:
   Users would have to create GitHub accounts.
 - Very little ability for user support around authentication of account metadata.
 - Some distant possibility that GitHub would be unhappy with us using their service in this way.
+
+Compared to the current identity.lsst.org system, this is missing:
+
+- Support for federated identity, authentication from one's home institution, and linking multiple identities.
