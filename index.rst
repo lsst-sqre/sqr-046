@@ -69,3 +69,4 @@ Major drawbacks:
 Compared to the current identity.lsst.org system, this is missing:
 
 - Support for federated identity, authentication from one's home institution, and linking multiple identities.
+- User support for authentication and user metadata problems, which currently can be provided by NCSA.
