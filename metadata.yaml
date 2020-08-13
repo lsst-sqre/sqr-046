@@ -37,14 +37,19 @@ authors:
 copyright: "2020, Association of Universities for Research in Astronomy, Inc. (AURA)"
 
 # Description. A short, 1-2 sentence statemement used by document indices.
-description: "An evaluation of the impact of using GitHub as the identity management system for the Interim Data Facility instead of a full-featured identity management system."
+description: >
+  An evaluation of the impact of using GitHub as the identity management
+  system for the Interim Data Facility instead of a full-featured identity
+  management system.
 
 # Abstract, if available
-# abstract: >
-#           Write your paragraph
-#           here with multiple lines.
-#
-#           You can have multiple paragraphs too.
+abstract: >
+  This is part of a series of technotes evaluating options for identity
+  management for the Rubin Science Platform.  This document sketches a
+  design for using GitHub with minimal additional infrastructure as an
+  interim identity management system while using the Interim Data
+  Facility.  This provides a minimum-effort baseline against which to
+  compare other identity management options.
 
 # URL where this document is published by Read the Docs. e.g. http://sqr-001.lsst.codes
 url: "https://sqr-046.lsst.io"
