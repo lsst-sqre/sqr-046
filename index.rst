@@ -5,13 +5,13 @@
 Abstract
 ========
 
-This is part of a series of technotes evaluating options for identity management (IDM) for the Rubin Science Platform in conjunction with the Rubin Science Platform Authentication and Authorisation (A&A) service, `Gafaelfawr`_. 
+This is part of a series of technotes evaluating options for identity management (IDM) for the Rubin Science Platform in conjunction with the Rubin Science Platform Authentication and Authorisation (A&A) service, `Gafaelfawr`_.
 This document sketches a design for using GitHub with minimal additional infrastructure as an interim identity management system while using the Interim Data Facility during early Data Previews.
 
-This provides a minimum-effort baseline against which to compare other identity management options. 
+This provides a minimum-effort baseline against which to compare other identity management options.
 In particular, it sketches out how we can service the Data Preview 0.1 and 0.2 users by offering them a level of intuitive web-based self-service capabilities that we do not currently have the ability to offer otherwise, while at the same time exercising our production A&A service.
 As our IDM capabilities grow, we can switch to offering our new IDM without affecting deployed services.
-The limited number of accounts supported for Data Preview 0 also mitigate some of the downsides of this approach, for example the need to add accounts manually to the authorizing organisation. 
+The limited number of accounts supported for Data Preview 0 also mitigate some of the downsides of this approach, for example the need to add accounts manually to the authorizing organisation.
 
 See `SQR-044`_ for the full list of identity management requirements and `SQR-045`_ for an evaluation of COmanage.
 
